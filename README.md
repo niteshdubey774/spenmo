@@ -1,2 +1,2 @@
 # spenmo
-spenmo
+spenmoCommand : npm test
