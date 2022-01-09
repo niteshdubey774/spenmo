@@ -1,0 +1,21 @@
+{
+  "name": "spenmo",
+  "version": "1.0.0",
+  "description": "spenmo automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "Nitesh Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.17.1",
+    "playwright": "^1.17.1"
+  },
+  "devDependencies": {
+    "playwright-cli": "^0.180.0"
+  }
+}
